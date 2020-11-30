@@ -1,3 +1,10 @@
+This project is front-end based on React.js and Next.js
+And this project uses Firebase.
+// run project
+  yarn install
+  npm run start
+  
+  
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
